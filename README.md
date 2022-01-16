@@ -5,4 +5,4 @@ Kerry system bots add parcel numbers and call a car to pick up parcels automatic
 | Uipath|Google Forms|Google Sheets|Line|Kerry user|
 
 ## How to use this project.
-Sent customer to fill out this google form https://forms.gle/WobNmiSKcaCQN9r79
+Sent customer to fill out this [Link Google form](https://link-url-here.org)
